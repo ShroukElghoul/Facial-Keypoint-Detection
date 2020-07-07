@@ -18,11 +18,11 @@ Notebook 3 : Facial Keypoint Detection Using Haar Cascades and your Trained CNN
 Notebook 4 : Fun Filters and Keypoint Uses.<br/>    
 The main idea is that it detects all the faces in an image using Haar Cascade Classifiers, then passing those detected faces into a CNN to detect the facial keypoints. as illustrated in the images below.<br/>
 1) Faces detected after Haar Cascades
-![](images/Haar_Cascade_Result.PNG)<br/>
+   - ![](images/Haar_Cascade_Result.PNG)<br/>
 2) Facial Keypoints detected <br/>
 
-![](images/result1.PNG) <br/>
-![](images/result2.PNG) <br/>
+   - ![](images/result1.PNG) <br/>
+   - ![](images/result2.PNG) <br/>
 
 ## Local Environment Installation Guide
 1) Clone the repository<br/>
