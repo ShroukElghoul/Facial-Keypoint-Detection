@@ -4,5 +4,6 @@ This project is part of Udacity Computer Vision Nanodegree. It combines the know
 Facial keypoints include points around the eyes, nose, and mouth on a face and are used in many applications. These applications include: facial tracking, facial pose recognition, facial filters, and emotion recognition. Some examples of these keypoints are pictured below.
 
 ![](images/key_pts_example.png)
+
                             Facial keypoints displayed on two images, each of which contains a single face.
 
