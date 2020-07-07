@@ -30,11 +30,10 @@ $ git clone https://github.com/ShroukElghoul/Facial-Keypoint-Detection.git<br/>
 2) Create and install an environment depending on your OS following the steps in this [documentation](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)<br/>
 3) Install pytorch, torchvision
 - **Linux**<br/>
-- $ conda install pytorch torchvision cudatoolkit=9.0 -c pytorch <br/>
+  $ conda install pytorch torchvision cudatoolkit=9.0 -c pytorch <br/>
 - **Windows**<br/>
-- $ conda install pytorch-cpu -c pytorch<br/>
-- $ pip install torchvision<br/>
+  $ conda install pytorch-cpu -c pytorch<br/>
+  $ pip install torchvision<br/>
 4) Install required packages.<br/>
-
-$ pip install -r requirements.txt
+  $ pip install -r requirements.txt
 
