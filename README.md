@@ -8,3 +8,19 @@ Facial keypoints include points around the eyes, nose, and mouth on a face and a
 <br/>    
 
 ## Project Structure
+The project will be broken up into a few main parts in four Python notebooks.<br/>    
+Notebook 1 : Loading and Visualizing the Facial Keypoint Data
+
+Notebook 2 : Defining and Training a Convolutional Neural Network (CNN) to Predict Facial Keypoints
+
+Notebook 3 : Facial Keypoint Detection Using Haar Cascades and your Trained CNN
+
+Notebook 4 : Fun Filters and Keypoint Uses.<br/>    
+The main idea is that it detects all the faces in an image using Haar Cascade Classifiers, then passing those detected faces into a CNN to detect the facial keypoints. as illustrated in the images below.<br/>
+1) Faces detected after Haar Cascades
+![](images/Haar_Cascade_Result.PNG)<br/>
+2) Facial Keypoints detected <br/>
+
+![](images/result1.PNG) <br/>
+![](images/result2.PNG) <br/>
+
