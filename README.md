@@ -27,8 +27,8 @@ The main idea is that it detects all the faces in an image using Haar Cascade Cl
 ## Local Environment Installation Guide
 1) Clone the repository<br/>
 $ git clone https://github.com/ShroukElghoul/Facial-Keypoint-Detection.git<br/>
-2) Create and install an environment depending on your OS following the steps in this [documentation](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)<br\>
-3) Install pytorch and required packages.<br\>
-$ conda install pytorch torchvision cudatoolkit=9.0 -c pytorch <br\>
+2) Create and install an environment depending on your OS following the steps in this [documentation](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)<br/>
+3) Install pytorch and required packages.<br/>
+$ conda install pytorch torchvision cudatoolkit=9.0 -c pytorch <br/>
 $ pip install -r requirements.txt
 
