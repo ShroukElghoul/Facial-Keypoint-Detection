@@ -24,3 +24,8 @@ The main idea is that it detects all the faces in an image using Haar Cascade Cl
 ![](images/result1.PNG) <br/>
 ![](images/result2.PNG) <br/>
 
+## Local Environment Installation Guide
+1) Clonning the repository<br/>
+$ git clone https://github.com/ShroukElghoul/Facial-Keypoint-Detection.git<br/>
+2) create and install an environment depending on your OS following the steps in this [documentation](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html)
+
